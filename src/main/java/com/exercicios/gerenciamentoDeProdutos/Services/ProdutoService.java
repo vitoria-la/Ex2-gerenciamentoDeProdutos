@@ -1,4 +1,4 @@
-package Services;
+package com.exercicios.gerenciamentoDeProdutos.Services;
 
 import com.exercicios.gerenciamentoDeProdutos.Models.ProdutoModel;
 import com.exercicios.gerenciamentoDeProdutos.Repositories.ProdutoRepository;
